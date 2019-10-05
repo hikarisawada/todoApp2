@@ -101,6 +101,7 @@
            <li class="menu"><a href="signup2.php">新規登録はこちら</a></li>
          </ul>
        </nav>
+       
 
      </header>
      <h2>ログインページ</h2>
